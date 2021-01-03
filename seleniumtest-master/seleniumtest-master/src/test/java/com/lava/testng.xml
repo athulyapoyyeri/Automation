@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression suite" verbose="10">
+
+  <test name="Selenium test case">
+    <classes>
+      <class name="com.lava.seleniumWikiTest.SeleniumWikiTest"/>
+    </classes>
+  </test>
+
+</suite>
